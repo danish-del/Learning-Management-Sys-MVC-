@@ -1,0 +1,39 @@
+﻿@model IEnumerable<LMS.Models.Assignment>
+
+<h2>Assignment</h2>
+<table class="table">
+
+
+ <thead>
+     <tr>
+         <th>Id</th>
+         <th>Title</th>
+         <th>Description</th>
+         <th>DueDate</th>
+         <th>CourseId</th>
+         <th>Action</th>
+     </tr>
+ </thead>
+ <tbody>
+     @foreach(var assignment in Model)
+            {
+                <tr>
+                    <td>@assignment.Id</td>
+                    <td>@assignment.Title</td>
+                    <td>@assignment.Description</td>
+                    <td>@assignment.DueDate</td>
+                    <td>@assignment.CourseId</td>
+                <td>
+                    <a asp-action="Edit"
+                       asp-route-id=@assignment.Id"
+                       class="btn btn-warning">Edit</a>
+                       <a asp-action="Delete"
+                       asp-route-id="@assignment.Id"
+                       class="btn btn-warning">Delete</a>
+                </td>
+                </tr>
+                
+                
+            }
+        </tbody>
+</table>

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<LMS.Models.Enrollment>
+
+<h2>Enrollment</h2>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Id</th>
+            <th>StudentId</th>
+            <th>CourseId</th>
+            <th>EnrollmentDate</th>
+            <th>Status</th>
+            <th>Progress</th>
+            <th>CompletedDate</th>
+            <th>Action</th>
+
+        </tr>
+        </thead>
+        <tbody>
+            @foreach(var enroll in Model)
+                {
+                    <tr>
+                        <td>@enroll.Id</td>
+                        <td>@enroll.StudentId</td>
+                        <td>@enroll.CourseId</td>
+                        <td>@enroll.EnrollmentDate</td>
+                        <td>@enroll.Status</td>
+                        <td>@enroll.Progress</td>
+                        <td>@enroll.CompletionDate?.ToString("dd/mm/yyyy")</td>
+
+                        <td>
+                            <a asp-action="Edit" 
+                            asp-route-id="@enroll.Id"
+                            class="btn btn-warning">
+                        Edit</a>
+                        </td>
+                        <td>
+                            <a asp-action="Delete"
+                            asp-route-id="@enroll.Id" class="btn btn-warning">
+                        Delete</a>
+                        </td>
+                    </tr>
+                }
+        </tbody>
+        </table>
+        

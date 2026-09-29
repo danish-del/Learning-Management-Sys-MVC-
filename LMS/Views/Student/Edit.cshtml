@@ -1,0 +1,20 @@
+﻿@model LMS.Models.Student
+<h1>Edit Student</h1>
+<form asp-action="Edit" method="post">
+
+<input type="hidden" asp-action="Id"/>
+
+<div class="mb-3">
+    <label asp-for="Id" class="form-label"></label>
+    <input asp-for="Id" class="form-label"/>
+</div>
+<div class="mb-3">
+    <label asp-for="Name" class="form-label"></label>
+</div>
+<div class="mb-3">
+    <label asp-for="Email" class="form-label"></label>
+</div>
+<button type="Submit">Update</button>
+
+<a> </a>
+</form>

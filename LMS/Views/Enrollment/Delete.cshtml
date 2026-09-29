@@ -1,0 +1,32 @@
+﻿@model LMS.Models.Enrollment
+<h1>Are you Sure you want to Delete this</h1>
+
+<form asp-action="Delete" method="post">
+    <div>
+        <strong>Id:</strong>@Model.Id
+    </div>
+    <div>
+        <strong>StudentId:</strong>@Model.StudentId
+    </div>
+
+    <div>
+        <strong>CourseId:</strong>@Model.CourseId
+    </div>
+    <div>
+        <strong>EnrollmentDate:</strong>@Model.EnrollmentDate
+    </div>
+    <div>
+        <strong>Status:</strong>@Model.Status
+</div>
+ <div>
+     <strong>Progress:</strong>@Model.Progress
+ </div>
+
+ <div>
+     <strong>CompletionDate:</strong>@Model.CompletionDate
+ </div>
+ <input type="hidden" asp-for="Id"/>
+ <button type="submit" class="btn btn-danger">Delete</button>
+ <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+
+</form>

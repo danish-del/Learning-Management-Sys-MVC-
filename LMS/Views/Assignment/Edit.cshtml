@@ -1,0 +1,31 @@
+﻿@model LMS.Models.Assignment
+
+<h2>Edit Assignment</h2>
+<form asp-action="Edit" method="post">
+
+    <input type="hidden"asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="Id" class="form-label"></label>
+        <input asp-for="Id"/>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control"/>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="DueDate" class="form-label"></label>
+        <input asp-for="DueDate"/>
+        <div class="mb-3">
+            <label asp-for="CourseId" class="form-label"></label>
+            <input asp-for="CourseId"/>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a asp-action="Index" class="btn btn-Secondary">Back to Index</a>
+
+</form>

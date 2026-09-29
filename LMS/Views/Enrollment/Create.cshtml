@@ -1,0 +1,39 @@
+﻿@model Enrollment
+
+<h1>Create Enrollment</h1>
+<form asp-action="Create"method="post">
+    <div>
+        <label asp-for="StudentId"></label>
+        <input asp-for="StudentId"/>
+        <span asp-validation-for="StudentId"></span>
+    </div>
+    <div>
+        <label asp-for="CourseId"></label>
+        <input asp-for="CourseId" />
+        <span asp-validation-for="CourseId"></span>
+    </div>
+   <div>
+       <label asp-for="EnrollmentDate">
+           <input asp-for="EnrollmentDate"/>
+           <span asp-validation-for="EnrollmentDate"></span>
+       </label>
+   </div>
+   <div>
+       <label asp-for="Status"></label>
+       <input asp-action="Status"/>
+       <span asp-validation-for="Status"></span>
+   </div>
+    <div>
+        <label asp-for="Progress"></label>
+        <input asp-action="Progress"/>
+        <span asp-validation-for="Progress"></span>
+    </div>
+     <div>
+         <label asp-for="CompletionDate"></label>
+         <input asp-for="CompletionDate"/>
+         <span asp-validation-for="CompletionDate"></span>
+     </div>
+     <button type="Submit">Save</button>
+     <a asp-action="Index">Back to  Index</a>
+
+</form>

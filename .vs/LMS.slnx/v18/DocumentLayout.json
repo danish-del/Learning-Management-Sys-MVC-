@@ -1,0 +1,750 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Danish\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\assignment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\assignment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\assignment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\assignment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\assignment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\assignment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\enrollment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\enrollment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\controllers\\submissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\submissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\data\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\data\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\migrations\\20260903220154_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20260903220154_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\migrations\\20260904221306_addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20260904221306_addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\migrations\\20260910212814_removeimagefromcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20260910212814_removeimagefromcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\migrations\\20260919224643_addenrollmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20260919224643_addenrollmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\migrations\\20260925225731_addsubmissiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20260925225731_addsubmissiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|c:\\danish\\lms\\lms\\migrations\\20260925225706_addassignmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AE40B2-0035-5EB3-B647-8A17B0EF43A6}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20260925225706_addassignmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Dashboard\\Index.cshtml*",
+              "RelativeToolTip": "LMS\\Views\\Dashboard\\Index.cshtml*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T22:40:15.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:18:28.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Enrollment\\Index.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Enrollment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T22:47:31.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Create.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Assignment\\Create.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Create.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Assignment\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T23:25:20.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Assignment\\Delete.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Delete.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Assignment\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T22:32:05.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Assignment\\Index.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Assignment\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T23:09:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:54:22.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:13:16.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T22:04:48.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:25:15.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Enrollment\\Delete.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Enrollment\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-22T21:54:04.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:14:45.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T21:29:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Repository\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "LMS\\Repository\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Repository\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "LMS\\Repository\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:00:30.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Repository\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "LMS\\Repository\\Interface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Repository\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "LMS\\Repository\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:57:37.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Assignment\\Edit.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Assignment\\Edit.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Assignment\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T21:05:42.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-09T21:49:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Enrollment\\Edit.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Edit.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Enrollment\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvycAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T22:41:01.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Models\\Assignment.cs",
+              "RelativeToolTip": "LMS\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:17:28.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-05T10:50:27.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Models\\Enrollment.cs",
+              "RelativeToolTip": "LMS\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:04:05.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Create.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Enrollment\\Create.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Enrollment\\Create.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Enrollment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T21:17:48.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20260925225731_AddSubmissionTable.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Migrations\\20260925225731_AddSubmissionTable.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20260925225731_AddSubmissionTable.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Migrations\\20260925225731_AddSubmissionTable.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20260925225731_AddSubmissionTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:57:31.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20260925225706_AddAssignmentTable.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Migrations\\20260925225706_AddAssignmentTable.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20260925225706_AddAssignmentTable.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Migrations\\20260925225706_AddAssignmentTable.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20260925225706_AddAssignmentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:57:06.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubmissionController.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Controllers\\SubmissionController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\SubmissionController.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Controllers\\SubmissionController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\SubmissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:41:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Models\\Submission.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Submission.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Models\\Submission.cs",
+              "RelativeToolTip": "LMS\\Models\\Submission.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:19:52.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:45:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LMSDbContext.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Data\\LMSDbContext.cs",
+              "RelativeDocumentMoniker": "LMS\\Data\\LMSDbContext.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Data\\LMSDbContext.cs",
+              "RelativeToolTip": "LMS\\Data\\LMSDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:10:01.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20260919224643_AddEnrollmentTable.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Migrations\\20260919224643_AddEnrollmentTable.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20260919224643_AddEnrollmentTable.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Migrations\\20260919224643_AddEnrollmentTable.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20260919224643_AddEnrollmentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:46:43.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T21:35:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T22:00:35.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Student.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Models\\Student.cs",
+              "RelativeToolTip": "LMS\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:10:18.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T22:41:03.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Course.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Models\\Course.cs",
+              "RelativeToolTip": "LMS\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:51:50.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "LMS\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Service\\JwtService.cs",
+              "RelativeToolTip": "LMS\\Service\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:30:18.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T21:37:29.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMS\\Program.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Program.cs",
+              "RelativeToolTip": "LMS\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:09:09.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260910212814_RemoveImageFromCourse.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Migrations\\20260910212814_RemoveImageFromCourse.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20260910212814_RemoveImageFromCourse.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Migrations\\20260910212814_RemoveImageFromCourse.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20260910212814_RemoveImageFromCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:28:14.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20260904221306_AddCourse.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Migrations\\20260904221306_AddCourse.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20260904221306_AddCourse.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Migrations\\20260904221306_AddCourse.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20260904221306_AddCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:13:06.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-03T22:16:46.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260903220154_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Migrations\\20260903220154_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20260903220154_InitialCreate.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Migrations\\20260903220154_InitialCreate.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20260903220154_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:01:54.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "LMS\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "LMS\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:49:45.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "LMS\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "LMS\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:50:39.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\appsettings.json",
+              "RelativeDocumentMoniker": "LMS\\appsettings.json",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\appsettings.json",
+              "RelativeToolTip": "LMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-03T21:07:39.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Danish\\LMS\\LMS\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Danish\\LMS\\LMS\\Models\\AppUser.cs",
+              "RelativeToolTip": "LMS\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:06:49.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

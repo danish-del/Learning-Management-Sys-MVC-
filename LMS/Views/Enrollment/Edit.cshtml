@@ -1,0 +1,41 @@
+﻿@model LMS.Models.Enrollment
+
+<h1>Edit Course</h1>
+
+<form asp-action="Edit"method="post">
+
+  <input type="hidden"asp-for="Id"/>
+
+  <div class="mb-3">
+      <label asp-for="StudentId"class="form-label"></label>
+      <input asp-for="StudentId"class="form-control"/>
+  </div>
+
+  <div class="mb-3">
+      <label asp-for="CourseId" class="form-label"></label>
+      <input asp-for="CourseId" class="form-control"/>
+  </div>
+
+  <div class="mb-3">
+      <label asp-for="EnrollmentDate" class="form-label"></label>
+      <input asp-for="EnrollmentDate" class="form-control"/>
+  </div>
+
+  <div class="mb-3">
+      <label asp-for="Status" class="form-label"></label>
+      <input asp-for="Status" class="form-control"/>
+  </div>
+
+  <div class="mb-3">
+      <label asp-for="Progress" class="form-label"></label>
+      <input asp-for="Progress" class="form-label"/>
+  </div>
+
+<div class="mb-3">
+    <label asp-for="CompletionDate" class="form-label"></label>
+    <input asp-for="CompletionDate" class="form-label"/>
+</div>
+<button type="submit" class="btn btn-primary">Update</button>
+
+<a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>

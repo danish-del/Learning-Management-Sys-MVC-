@@ -1,0 +1,26 @@
+﻿@model Assignment
+
+<h2>Are you Sure you want to Delete this?</h2>
+
+<form asp-action="Delete" method="post">
+    <div>
+        <strong>Id:</strong> @Model.Id
+    </div>
+    <div>
+        <strong>Title:</strong> @Model.Title
+    </div>
+    <div>
+        <strong>Description:</strong> @Model.Description
+    </div>
+    <div>
+        <strong>DueDate:</strong> @Model.DueDate
+    </div>
+    <div>
+        <strong>CourseId:</strong> @Model.CourseId
+    </div>
+
+    <input type="hidden" asp-for="Id"/>
+
+    <button type="submit">Delete</button>
+    <a asp-action="Index">Cancel</a>
+</form>

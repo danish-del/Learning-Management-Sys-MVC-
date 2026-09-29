@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2 class="mb-3">Dashboard</h2>
+
+<div class="row">
+
+    <div class="col-md-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5>Students</h5>
+
+                <h3>@ViewBag.StudentCount</h3>
+
+                <a asp-controller="Students"
+                   asp-action="Index"
+                   class="btn btn-primary">
+                    View Students
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5>Courses</h5>
+
+                <h3>@ViewBag.CourseCount</h3>
+
+                <a asp-controller="Course"
+                   asp-action="Index"
+                   class="btn btn-primary">
+                    View Courses
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+      <div class="col col-md-6 col mb-3">
+          <div class="row">
+              <div class="card-body">
+                  <h5>Enrollments</h5>
+                  <h3>@ViewBag.EnrollmentCount</h3>
+                  <a asp-controller="Enrollment"
+                  asp-action="Index"
+                  class="btn btn-primary">
+              View Enrollment</a>
+      
+              </div>
+          </div>
+      </div>
+      <div class="col col-md-6 mb-3">
+          <div class="row">
+              <div class="card-body">
+                  <h5>Assignments</h5>
+                  <h3>@ViewBag.Assignment</h3>
+
+                  <a asp-controller="Assignment"
+                  asp-action="Index"
+                  class="btn btn-primary">
+              View Assignments</a>
+              </div>
+          </div>
+      </div>
+      <div class="col col-md-6 md-3">
+          <div class="card">
+               <div class="row">
+              <div class="card-body">
+                  <h5>Submissions</h5>
+                  <h3>@ViewBag.Submission</h3>
+
+                  <a asp-controller="Submission"
+                  asp-action="Index"
+                  class="btn btn-primary">
+              View Submission</a>
+              </div>
+          </div>
+      </div>
+          </div>
+         
