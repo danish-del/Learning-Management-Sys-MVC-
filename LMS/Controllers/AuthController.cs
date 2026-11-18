@@ -55,7 +55,6 @@ namespace LMS.Controllers
             {
                 message = "Login Successfull!",
                 token = token
-
             });
         }
     }

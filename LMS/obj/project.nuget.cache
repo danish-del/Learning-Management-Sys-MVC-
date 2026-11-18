@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqiCHkCsaEg=",
+  "dgSpecHash": "IffAiri48GQ=",
   "success": true,
-  "projectFilePath": "C:\\Danish\\LMS\\LMS\\LMS.csproj",
+  "projectFilePath": "C:\\Danish\\LMS\\LMS\\Learning Management Sys(MVC).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SIKANDER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\SIKANDER\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

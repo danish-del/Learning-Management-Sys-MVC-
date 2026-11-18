@@ -4168,9 +4168,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Danish\\LMS\\LMS\\LMS.csproj",
-      "projectName": "LMS",
-      "projectPath": "C:\\Danish\\LMS\\LMS\\LMS.csproj",
+      "projectUniqueName": "C:\\Danish\\LMS\\LMS\\Learning Management Sys(MVC).csproj",
+      "projectName": "Learning Management Sys(MVC)",
+      "projectPath": "C:\\Danish\\LMS\\LMS\\Learning Management Sys(MVC).csproj",
       "packagesPath": "C:\\Users\\SIKANDER\\.nuget\\packages\\",
       "outputPath": "C:\\Danish\\LMS\\LMS\\obj\\",
       "projectStyle": "PackageReference",

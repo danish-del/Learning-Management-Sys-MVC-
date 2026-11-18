@@ -1,6 +1,5 @@
 ﻿using LMS.Models;
 using LMS.Repository.Interface;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LMS.Controllers
